@@ -227,7 +227,7 @@ function getIcon(condition) {
     } else if (condition === "Partly-cloudy-night") {
         return "https://i.ibb.co/Kzkk59k/15.png";
     } else if (condition === "rain") {
-        return "https://i.ibb.co/kBd2NTS/39";
+        return "https://i.ibb.co/kBd2NTS/39.png";
     } else if (condition === "clear-day") {
         return "https://i.ibb.co/rb4rrJL/26.png";
     } else if (condition === "clear-night") {
